@@ -1,2 +1,2 @@
 # stripe-php-integration
-This is an example how to show integrating Stripe PHP SDK
+This is an example showing how to  integrating Stripe PHP SDK
